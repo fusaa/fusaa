@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I aim to perform studies and develop data products using Machine Learning techniques to solve business problems. I develop data solutions through Data Analysis, Machine Learning and Statistics methods.
+I aim to perform studies and develop data products using Machine Learning techniques to solve business problems. I enjoy developing data solutions through programming, Data Analysis, Machine Learning and Statistics methods.
 
-A Data Science project has different stages, from understanding the business problem, collecting and cleaning data, feature engineering, data modelling, testing algorithms' model performance and deployment. All of this with careful thought of the conclusive part, which translates into value.
+A project has different stages, from understanding the business problem, collecting and cleaning data, feature engineering, data modelling, testing algorithms' model performance and deployment. All of this with careful thought of the conclusive part, which translates into value.
 
 ## Main Tools I have been using lately
 ---
