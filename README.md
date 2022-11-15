@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![aws2](https://user-images.githubusercontent.com/66756007/201688361-0048429a-eb89-40fe-bfbb-6bda2485333c.png)
+-- ![aws2](https://user-images.githubusercontent.com/66756007/201688361-0048429a-eb89-40fe-bfbb-6bda2485333c.png)
 
 I aim to perform studies and develop data products using Machine Learning techniques to solve business problems. I enjoy developing data solutions through programming, Data Analysis, Machine Learning and Statistics methods.
 
